@@ -13,10 +13,10 @@ Aplicație desktop pentru evidența cărților din bibliotecă și gestionarea �
 - **Stratul de date:** salvează și încarcă evidența cărților, cititorilor și împrumuturilor.
 
 ## Diagrama UML (Use Case)
-![Diagrama Use Case](diagrams/![Diagrama Use Case](diagrams/Diagrama_UML_%28Use_Case%29.drawio.png))
+![Diagrama Use Case](diagrams/Diagrama_UML_%28Use_Case%29.drawio.png)
 
 ## Prototip Figma
-Link prototip: [Vezi prototipul în Figma](https://www.figma.com/design/GKkqS0BvgeBqCndGNkt3Mi/Gestionarea-unei-biblioteci?node-id=0-1&t=XQth13cqwQ1Nyxrl-1)
+Link prototip: [Vezi prototipul în Figma](https://www.figma.com/design/GKkqS0BvgeBqCndGNkt3Mi/Gestionarea-unei-biblioteci?node-id=0-1&t=XQth13cqwQ1Nyxrl)
 
 ## Structura proiectului
 - `prototype/` — imaginile PNG ale ecranelor din Figma
