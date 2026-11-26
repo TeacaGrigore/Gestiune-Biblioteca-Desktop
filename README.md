@@ -8,6 +8,7 @@ Aplicație desktop pentru evidența cărților din bibliotecă și gestionarea �
 - Înregistrarea împrumuturilor și a retururilor.
 
 ## Arhitectura modulară
+<<<<<<< HEAD
 
 ```text
 +-------------------------------------------------------------------+
@@ -43,6 +44,11 @@ Aplicație desktop pentru evidența cărților din bibliotecă și gestionarea �
 * **Interfața grafică (UI):** Aici stau doar ecranele și butoanele din prototipul Figma (catalogul, filtrele, adăugarea unei cărți, împrumutul și returul). Am păstrat interfața separată de calcule ca să fie curată și ușor de modificat.
 * **Logica aplicației:** Aici se verifică dacă datele sunt valide, dacă o carte are exemplare libere și se actualizează stocul când se înregistrează un împrumut sau un retur[cite: 10].
 * **Stratul de date:** Aici se salvează și se încarcă evidența cărților, cititorilor și împrumuturilor, separat de ecran și de regulile aplicației[cite: 10].
+=======
+- **Interfața grafică (UI):** ecranele și butoanele (catalog, filtre, adăugare carte, împrumut și retur), care preiau acțiunile utilizatorului și afișează rezultatele.
+- **Logica aplicației:** validează datele introduse, verifică disponibilitatea exemplarelor și actualizează numărul de exemplare la împrumut sau retur.
+- **Stratul de date:** salvează și încarcă evidența cărților, cititorilor și împrumuturilor.
+>>>>>>> 0950c3e (Restore modular architecture list in README)
 
 ## Diagrama UML (Use Case)
 ![Diagrama Use Case](diagrams/Diagrama_UML%20%28Use_Case%29.drawio.png)
