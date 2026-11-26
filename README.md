@@ -16,7 +16,7 @@ Aplicație desktop pentru evidența cărților din bibliotecă și gestionarea �
 ![Diagrama Use Case](diagrams/Diagrama_UML%20%28Use_Case%29.drawio.png)
 
 ## Prototip Figma
-Link prototip: [Vezi prototipul în Figma](https://www.figma.com/design/GKkqS0BvgeBqCndGNkt3Mi/Gestionarea-unei-biblioteci?node-id=0-1&t=XQth13cqwQ1Nyxrl)
+Link prototip: [Vezi prototipul în Figma]([https://www.figma.com/design/GKkqS0BvgeBqCndGNkt3Mi/Gestionarea-unei-biblioteci?node-id=0-1&t=XQth13cqwQ1Nyxrl](https://www.figma.com/proto/GKkqS0BvgeBqCndGNkt3Mi/Gestionarea-unei-biblioteci?node-id=2-2&t=TaeBguUucwHsayIT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2))
 
 ## Structura proiectului
 - `prototype/` — imaginile PNG ale ecranelor din Figma
