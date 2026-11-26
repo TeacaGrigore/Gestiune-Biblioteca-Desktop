@@ -8,7 +8,7 @@ Aplicație desktop pentru evidența cărților din bibliotecă și gestionarea �
 - Înregistrarea împrumuturilor și a retururilor.
 
 ## Arhitectura modulară
-+-------------------------------------------------------------------+
+""+-------------------------------------------------------------------+
 |                     1. INTERFAȚA GRAFICĂ (UI)                     |
 |  - Catalog cărți (căutare / filtrare)                             |
 |  - Fereastră adăugare carte nouă                                 |
@@ -35,7 +35,7 @@ Aplicație desktop pentru evidența cărților din bibliotecă și gestionarea �
 |  - Evidența împrumuturilor și retururilor                          |
 |  * Ce face: păstrează datele salvate și le încarcă când deschizi  |
 |    aplicația, separat de ecran și de regulile de calcul.          |
-+-------------------------------------------------------------------+
++-------------------------------------------------------------------+ ""
 
 ## Diagrama UML (Use Case)
 ![Diagrama Use Case](diagrams/Diagrama_UML%20%28Use_Case%29.drawio.png)
