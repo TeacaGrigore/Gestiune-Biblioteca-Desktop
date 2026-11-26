@@ -7,6 +7,7 @@ Aplicație desktop pentru evidența cărților din bibliotecă și gestionarea �
 - Înregistrarea unei cărți noi;
 - Înregistrarea împrumuturilor și a retururilor.
 
+## Arhitectura modulară
 +-------------------------------------------------------------------+
 |                     1. INTERFAȚA GRAFICĂ (UI)                     |
 |  - Catalog cărți (căutare / filtrare)                             |
