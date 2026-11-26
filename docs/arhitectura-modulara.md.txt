@@ -1,0 +1,14 @@
+Arhitectura modulară — Gestionarea unei biblioteci
+
+Aplicația desktop este împărțită pe trei straturi pentru a separa clar responsabilitățile:
+
+1. Interfața grafică (UI)
+   - Cuprinde ecranele și controalele vizuale: catalogul de cărți, câmpurile de căutare și filtrare, formularul de adăugare a unei cărți și ferestrele pentru înregistrarea împrumuturilor și retururilor.
+   - Preia acțiunile utilizatorului și afișează datele sau mesajele primite de la logica aplicației.
+
+2. Logica aplicației
+   - Verifică datele introduse (de exemplu câmpurile obligatorii la adăugarea unei cărți).
+   - Controlează disponibilitatea exemplarelor și actualizează stocul cărților când se înregistrează un împrumut sau un retur.
+
+3. Stratul de date
+   - Salvează și încarcă evidența cărților, cititorilor și împrumuturilor (într-o bază de date sau în fișiere locale), astfel încât informațiile să rămână păstrate.
